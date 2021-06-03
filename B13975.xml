@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True newes, concerning the winning of the towne of Corbeyll by the French king from the Prince of Parma. Which was doone on S. Martins euen at night last past. 1590. Sent from Deepe to an English gentleman.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13975</idno><idno type="EEBO-CITATION">99891972</idno>
+  <idno type="VID">190343</idno>
+  <idno type="EEBO-PROQUEST">2240916296</idno>
+  
+            <idno type="STC">STC 13146</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.132.h.25[16]</idno>
+            <idno type="PROQUEST">ocm99891972</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891972e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190343)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C20:1[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True newes, concerning the winning of the towne of Corbeyll by the French king from the Prince of Parma. Which was doone on S. Martins euen at night last past. 1590. Sent from Deepe to an English gentleman.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Prinnted [sic] by E. A[llde] and are to be solde [by E. White] at the little North doore of Paules Church at the signe of the Gunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and publisher's names from STC.</note>
+                  <note>Printers' device on t.p. (McK. 290); tail-piece.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Henry --  IV, --  King of France, 1553-1610 --  Early works to 1800.</term>
+               <term type="personal_name">Alessandro Farnese, --  Duke of Parma, 1545-1592.</term>
+               <term type="geographic_name">France --  History --  Wars of the Huguenots, 1562-1598 --  Early works to 1800.</term>
+               <term type="geographic_name">France --  History --  Henry IV, 1589-1610 --  Early works to 1800.</term>
+               <term type="geographic_name">Corbeil-Essonnes (France) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:190343:1"/>
+            <pb facs="tcp:190343:1"/>
+            <p>True Newes, Concerning the win<g ref="char:EOLhyphen"/>ning of the Towne of Corbeyll by the French King from the Prince of Parma. Which was doone on S. Martins euen at night last past. 1590. Sent from Deepe to an English Gentleman.</p>
+            <figure>
+               <figDesc>Woodcut printer's device of Edward Allde showing a flower vase with the sun above, and below the arms of the City of London (McKerrow, 290).</figDesc>
+            </figure>
+            <p>AT LONDON, Prinnted by E. A. and are to be solde at the little North doore of Paules Church at the signe of the Gunne. 1590.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:190343:2"/>
+            <pb n="1" facs="tcp:190343:2"/>
+            <head>¶ True Newes, concerning the <hi>winning of the Towne of</hi> Corbeyll.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is not long since (my</hi> good Fréend) that I sent you woord of the euil successe which the French Kings forces had at the hotte and seuerall assaultes made by the Prince of <hi>Parma</hi> against the towne of <hi>Corbeyll,</hi> and the valiant resistance which the Subiects of the French King made against them. Where, after the saide Prince of <hi>Parma</hi> had brought his power, and placed his Cannons to batter the Towne of <hi>Corbeyll:</hi> the Townes men did generallye consent to right it out, hauing before locked vp their Gates, and in the resistance slew many of the Prince of <hi>Parmas</hi> power, in three hot and seuerall skirmishes. Neuertheles such was the weaknes of the said towns<g ref="char:EOLhyphen"/>men of <hi>Corbeyll,</hi> that they were constrained to come to the walles of the saide Towne, and to require par<g ref="char:EOLhyphen"/>ley with the Prince, and thereby séeing euidently that the Prince was strong and well furnished with men and munition, and brasse peeces for battry: they offred to yéelde vp the saide Towne to the Prince, conditio<g ref="char:EOLhyphen"/>nally that he would graunt them their liues, and that they might departe with bagge and baggage: but the Prince of <hi>Parma</hi> contrarye to his former procéedings in the Lowe Cuntries, not only denyed them of this
+<pb n="2" facs="tcp:190343:3"/> their request, but also vowed to put them euerye man, woman and childe to the Swoord, his only reason was for that they had so long resisted him, and slain a great number of his best and most approued Souldiours in those thrée seuerall assaultes: wher-upon the Citizens hearing the sentēce of death pronounced against them, and perceiuing nothing would perswade him to saue their liues, nor to take pittie of their wiues and Chil<g ref="char:EOLhyphen"/>dren: they fell fiercely to the fourth and last skirmishe, where they determined to slay or to be slaine.</p>
+            <p>Then Drummes and Trumpets sounded foorth the deadly points of Warre, and there began a most fierce and sharpe assaulte on both sides, which continued two howres together, where was great losse of blood on both sides, but in the end the Prince of <hi>Parma</hi> became victor, and winning the Towne by force, did put euery liuing creature to the Swoord which was found there aliue: this was a gréeuous slaughter, where people enhabiting and keeping the Towne to their Kings vse, yet miserably put to y<seg rend="sup">e</seg> Swoord without any iust cause. But héerein no reason might serue, none might escape, nor none presently reuenge.</p>
+            <p>Now when the saide Towne of <hi>Corbeyll</hi> was wonne, and the Inhabitants wofully put to y<seg rend="sup">e</seg> swoord, the Duke caused many to fall to labour, and to fortefie againe the great breache with Stone, which by force of Cannon he had before made: and therby went into the saide Towne of <hi>Corbeyll:</hi> and ther-vpon he imme<g ref="char:EOLhyphen"/>diatly placed a garyson of chosen Souldiours in the saide Towne, and so departed.</p>
+            <p>The Kinges Maiestie of <hi>Fraunce</hi> hearing of the losse of this Towne, tooke the same very greeuously, e<g ref="char:EOLhyphen"/>specially for the losse of so many of his good and faith<g ref="char:EOLhyphen"/>full subiects slaine in the same: whose liues he more
+<pb n="3" facs="tcp:190343:3"/> estéemed (as he saide) then of tenne such Townes, in respect wherof he vowed to reuenge the same so soone as time and occasion would serue.</p>
+            <p>Soone after the Kings Maiestie appointed <hi>Moun<g ref="char:EOLhyphen"/>sier de Cheuery</hi> being a braue man at armes, polliticke and hardie, to make choice of some sufficient number, of his best and approuedst Souldiours, and to marche forward towards the said Towne of <hi>Corbeyll,</hi> giuing him charge to reuenge the great wrong before offered vpon his good subiects, by those Wallons and Spanish souldiours, planted like vsurpers in garyson to defend and keepe the said Towne to the vse of the Prince of <hi>Parma:</hi> which to performe, the saide <hi>Mounsier de Che<g ref="char:EOLhyphen"/>uery</hi> let slippe no good occasion that might be offred, for in the euening before S. <hi>Martins</hi> day last past, the saide <hi>Mounsier de Cheuery</hi> knowing it was a night of great quaffing obserued among the Wallons and those in Garyson, staid and would not goe forward or come be<g ref="char:EOLhyphen"/>fore the said Towne vntill it were more towards the dead of the night, whereby those in the towne hab no cause of doubt, and therfore drunke freelye: but about twelue of the Clock that night, the Kinges power came before the saide towne, which being secretly doon like men vnlooked for: suddainly made a fierce &amp; strong assault vpon the same, and practised by force and polli<g ref="char:EOLhyphen"/>cie the recouery therof againe: now the Wallons and Spanish Garyson inclosed within the saide town, ha<g ref="char:EOLhyphen"/>uing drunk hard most parte of the day, and then vpon a sodaine to be wakened out of their dead sleepe by the thundring shot that made great breaches and wayes for the Kings Souldiours to enter the said towne, ran as halfe desperate to the walles and made a very for<g ref="char:EOLhyphen"/>ceable resistance which continued all that night, neuer<g ref="char:EOLhyphen"/>thelesse by seauen of the clock the next morning the
+<pb n="4" facs="tcp:190343:4"/> Towne was wonne again vnto the King by force, the Kings power entred in at the same breache which the Prince had before entred, so that whatsoeuer the pince of <hi>Parma</hi> might doo, it could not preuaile, though hearing thereof, he sent a power of Spaniards to suc<g ref="char:EOLhyphen"/>cour them, which came too late, and were glad to get them gone for feare of their liues.</p>
+            <p>Thus by valiant encounter the saide <hi>Mounsier de Cheuery</hi> with his Souldiers entred the Towne the next morning, where were found slaine by that fight <hi>2.</hi> hundreth Burgonians and <hi>300.</hi> Spaniards, besides <hi>400.</hi> which were taken Prisoners, and still remaine in the saide Towne, who must paye well for their raun<g ref="char:EOLhyphen"/>some ere they departe.</p>
+            <p>In this Towne the Kinges Souldiours found <hi>200</hi> fatte Oxen, fower hundreth sheepe, leauing some slaine some drest, and some aliue.</p>
+            <p>There was also taken <hi>4.</hi> brasen peeces, and <hi>2.</hi> Can<g ref="char:EOLhyphen"/>nons readye charged, many Spanish Ensignes, which but latelye had beene displayed in and about the saide Towne of <hi>Corbeyll</hi> in triumphe of the saide victorie, and doone in despite of the Kings Maiestie of <hi>Fraunce:</hi> were now taken, and those that did display and defend the same, were euery man taken prisoner or slaine, so that not one man escaped to tell the newes to his fa<g ref="char:EOLhyphen"/>uourers in other places.</p>
+            <p>Thus was the town of <hi>Corbeyll</hi> wonne again and entred into by force of the Kings power, in despite of the prince of <hi>Parma,</hi> Duke <hi>de maine,</hi> or any other their associates: And such is the dayly labour of the Souldi<g ref="char:EOLhyphen"/>ours in the same towne to fortifie and rampier it, that the enemye shall hardly get it in haste.</p>
+            <p>GOd be thanked very few of the Kings Souldiours were slaine in this skirmishe, nor no man of name
+<pb n="5" facs="tcp:190343:4"/> or speciall account. On the enemies side besides the number aforesaide: there was slaine <hi>Cheuallier de Aumall,</hi> who was one of the most cheefest warriors on the Leagers side: this <hi>Cheuallier de Aumall</hi> had prouided great store of victualles entending there<g ref="char:EOLhyphen"/>with to haue victuailed the Cittie of <hi>Paris,</hi> which yet standes distressed, but he was not onely intercepted of the saide victuaile, but also of his life: <hi>Mounsier de Cheuery</hi> séeing what good successe it had pleased God to send him, humblye gaue thankes vnto almightye God with all his Souldiours. And foorthwith sent newes thereof vnto the King, who reioyced for his good successe, and humblye gaue thankes vnto God also for the same.</p>
+            <trailer>FINIS.</trailer>
+            <trailer>
+               <figure>
+                  <figDesc>Woodcut tail-piece featuring two putti.</figDesc>
+               </figure>
+            </trailer>
+            <pb facs="tcp:190343:5"/>
+            <pb facs="tcp:190343:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
